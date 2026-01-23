@@ -35,8 +35,8 @@
 * 🏥 **Hospital Management System (Java)** – OOP-based project with doctors, patients & departments  
 * 🎮 **Escape Room Game (C++)** – File handling, functions, arrays & error handling  
 * 📞 **ICT Support System** – Contributed as backend developer (Node.js + TypeScript, Supabase, Clerk)  
-* 🌐 **Orientation '25 Website** – Fun website for NUST 2025 orientation (Next.js)  
-
+* 🌐 **Orientation '25 Website** – Contributed for a Fun website for NUST 2025 orientation (Next.js)  
+* 🎯 NIMUN 2026 Conference Platform – Contributed Full-stack Model UN platform with registration system, admin dashboard, Commitee allotment & payment verification (Next.js, TypeScript, Firebase)
 ---
 
 ## 📊 GitHub Stats  
