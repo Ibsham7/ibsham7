@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm an AI undergraduate at **NUST SEECS** (CGPA 3.7 | GPA Scholarship) who ships production-grade systems — not just Jupyter notebooks. My work spans multi-tenant ML SaaS platforms, multilingual NLP systems, and full-stack web applications. I care about clean architecture, real deployments, and solving problems that matter.
+I'm an AI undergraduate at **NUST SEECS** (CGPA 3.7 | GPA Scholarship) who ships production-grade systems   not just Jupyter notebooks. My work spans multi-tenant ML SaaS platforms, multilingual NLP systems, and full-stack web applications. I care about clean architecture, real deployments, and solving problems that matter.
 
 - 🔬 Currently deepening expertise in **MLOps** and **LLM fine-tuning**
 - 🏗️ Building with **FastAPI + Docker + Kubernetes** for production ML serving
